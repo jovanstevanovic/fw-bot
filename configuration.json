@@ -1,0 +1,10 @@
+{
+  "phone": "+38766440168",
+  "refresh_rate": 10,
+  "groups": [
+    {
+      "source_group": "Vip CoinSignals",
+      "target_group": "Freedom Signals FREE"
+    }
+  ]
+}
