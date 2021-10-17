@@ -59,7 +59,7 @@ def read_json_file(filename):
 def filter_groups(groups, criteria):
     entity = list(filter(lambda e: e.title == criteria, groups))
     if len(entity) == 0:
-        print_message("Group not found!", MessageType.ERROR)
+        print_message("Group - {criteria} -  not found!".format(criteria=criteria), MessageType.ERROR)
         exit(2)
     else:
         return entity[0]
