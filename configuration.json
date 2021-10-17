@@ -1,9 +1,33 @@
 {
   "phone": "+38766440168",
-  "refresh_rate": 10,
+  "refresh_rate": 20,
   "groups": [
     {
-      "source_group": "Vip CoinSignals",
+      "source_group": "Universal Crypto Signals Pro",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "Mega Crypto World",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "AltSignals",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "CryptoWhale",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "Crypto Pump Island",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "Hippo Crypto Family",
+      "target_group": "Freedom Signals FREE"
+    },
+    {
+      "source_group": "Klondike Crypto Rush",
       "target_group": "Freedom Signals FREE"
     }
   ]
